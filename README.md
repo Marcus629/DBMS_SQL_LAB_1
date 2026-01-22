@@ -4,7 +4,7 @@ DBMS Lab assignment using Oracle SQL*Plus
 This assignment is focuses on learning SQL Commands by Using SQL Plus.\
 It Covers Both:\
 -DDL(Data Defination language) For Creating and modifying the table\
--DML(Data Manipulating language) For inserting,updating,deleting and showing the table\
+-DML(Data Manipulating language) For inserting,updating,deleting and showing the table
 
 All sql queries are written in single .sql file as per the given instruction/guidelines and are to be intended to execute in SQL*Plus
 
