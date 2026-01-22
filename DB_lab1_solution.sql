@@ -40,3 +40,4 @@ UPDATE Student SET City ='Patna' WHERE Name = 'Rahul';
 
 UPDATE Student SET Age = Age + 1;
 
+
